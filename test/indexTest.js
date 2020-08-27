@@ -7,7 +7,7 @@ describe('index.js', function () {
         expect(append).to.have.ordered.members(["Milo", "Otis", "Garfield", "Odie"]);
       });
     });
-
+ 
     describe('prepend', function () {
       it('prepends a pet to the beginning of the pets array', function () {
         expect(prepend).to.have.ordered.members(["Odie", "Milo", "Otis", "Garfield"]);

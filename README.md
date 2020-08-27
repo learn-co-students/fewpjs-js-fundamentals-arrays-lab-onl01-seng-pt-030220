@@ -24,7 +24,7 @@ working with `Array`s.
 
 1. Run `learn`.
 2. Read the errors; vocalize what they're asking you to do.
-3. Write code; repeat steps 1 and 2 often until a test passes.
+3. Write code; repeat steps 1 and 2 often until a test passes. 
 4. Repeat as needed for further tests.
 5. Run `learn submit` when finished!
 
